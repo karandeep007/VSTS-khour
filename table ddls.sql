@@ -10,3 +10,8 @@ name varchar(30),
 insurance_type varchar(40),
 dateoflastvisit datetime2
 );
+
+create table drug(
+name varchar(50),
+WAP int,
+type varchar(50))
